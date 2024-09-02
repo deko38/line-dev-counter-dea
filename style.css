@@ -1,0 +1,39 @@
+
+body{
+    background-color: bisque;
+
+}
+
+
+.container{
+    position: relative;
+   
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#decrement{
+    background-color: rgb(61, 61, 125);
+    border: 2px solid transparent;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+#increment{
+    background-color: rgb(38, 139, 15);
+    border: 2px solid transparent;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+
+#reset{
+    background-color: rgb(87, 10, 57);
+    border: 2px solid transparent;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+}
